@@ -1,7 +1,5 @@
-[![CC By 4.0][image]][hyperlink]
-  [hyperlink]: http://creativecommons.org/licenses/by/4.0/
-  [image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-  
+[![CC By 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
 # lego-planetary-gear
 This repo holds a Lego Technic planetary gear designed in PTC Creo.
 
