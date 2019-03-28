@@ -1,0 +1,465 @@
+﻿V7.0
+#
+#
+# PGL Version 7.0
+#
+#
+# material name
+material_name "ref_color92"
+# material label
+material_label "<Lego - red>"
+# material description
+material_description ""
+# material keywords
+material_keywords "lego"
+# ambient color
+ambient_color 0.898039 0.415686 0.329412 1.000000
+# diffuse color
+diffuse_color 0.898039 0.415686 0.329412 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.600000
+# shine
+shine 0.600000
+# shine intensity
+intensity 0.600000
+# reflection
+reflection 0.300000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color72"
+# material label
+material_label "Lego - red"
+# material description
+material_description ""
+# material keywords
+material_keywords "lego"
+# ambient color
+ambient_color 0.898039 0.415686 0.329412 1.000000
+# diffuse color
+diffuse_color 0.898039 0.415686 0.329412 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.600000
+# shine
+shine 0.600000
+# shine intensity
+intensity 0.600000
+# reflection
+reflection 0.300000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color87"
+# material label
+material_label "<Lego - light gray> - 5"
+# material description
+material_description ""
+# material keywords
+material_keywords "lego"
+# ambient color
+ambient_color 0.698039 0.705882 0.698039 1.000000
+# diffuse color
+diffuse_color 0.698039 0.705882 0.698039 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.600000
+# shine
+shine 0.600000
+# shine intensity
+intensity 0.600000
+# reflection
+reflection 0.300000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color91"
+# material label
+material_label "Lego - medium royal blue"
+# material description
+material_description ""
+# material keywords
+material_keywords "lego"
+# ambient color
+ambient_color 0.000000 0.200000 0.627451 1.000000
+# diffuse color
+diffuse_color 0.000000 0.200000 0.627451 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.600000
+# shine
+shine 0.600000
+# shine intensity
+intensity 0.600000
+# reflection
+reflection 0.300000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color60"
+# material label
+material_label "<lego - orange>"
+# material description
+material_description ""
+# material keywords
+material_keywords "lego"
+# ambient color
+ambient_color 0.956863 0.607843 0.000000 1.000000
+# diffuse color
+diffuse_color 0.956863 0.607843 0.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.600000
+# shine
+shine 0.600000
+# shine intensity
+intensity 0.600000
+# reflection
+reflection 0.300000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color61"
+# material label
+material_label "ptc-metallic-blue"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+shader_type metal_shader "generic_metal"
+color_param 0.011000 0.012000 1.000000 "diffuse"
+float_param 0.630000 "refl_gloss"
+shader_enabled 1
+# ambient color
+ambient_color 0.011000 0.012000 1.000000 1.000000
+# diffuse color
+diffuse_color 0.011000 0.012000 1.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 1.000000
+# ambient
+ambient 0.600000
+# shine
+shine 0.630000
+# shine intensity
+intensity 0.900000
+# reflection
+reflection 1.000000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color66"
+# material label
+material_label "<lego - black>"
+# material description
+material_description ""
+# material keywords
+material_keywords "lego"
+shader_type misc_shader "misc_fabric"
+color_param 0.410000 0.261589 0.112848 "diffuse"
+color_param 1.000000 1.000000 1.000000 "refl_color"
+float_param 1.000000 "diffuse_weight"
+float_param 0.000000 "diffuse_roughness"
+float_param 0.500000 "reflectivity"
+float_param 0.250000 "refl_gloss"
+shader_enabled 0
+shader_type misc_shader "misc_leather"
+color_param 0.000000 0.000000 0.000000 "diffuse"
+color_param 1.000000 1.000000 1.000000 "refl_color"
+float_param 1.000000 "diffuse_weight"
+float_param 0.500000 "reflectivity"
+float_param 0.600000 "refl_gloss"
+shader_enabled 1
+# ambient color
+ambient_color 0.000000 0.000000 0.000000 1.000000
+# diffuse color
+diffuse_color 0.000000 0.000000 0.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 1.000000
+# ambient
+ambient 1.000000
+# shine
+shine 0.600000
+# shine intensity
+intensity 0.800000
+# reflection
+reflection 0.500000
+# bump_type
+bump_type 4
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# bump texture map
+bump_map Leather-brown-bump.jpg
+# bump enabled
+bump_enabled 1
+# material name
+material_name "ref_color59"
+# material label
+material_label "ptc-metallic-aluminium"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+shader_type metal_shader "generic_metal"
+color_param 1.000000 1.000000 1.000000 "diffuse"
+float_param 1.000000 "refl_gloss"
+shader_enabled 1
+# ambient color
+ambient_color 1.000000 1.000000 1.000000 1.000000
+# diffuse color
+diffuse_color 1.000000 1.000000 1.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 1.000000
+# ambient
+ambient 0.550000
+# shine
+shine 1.000000
+# shine intensity
+intensity 0.600000
+# reflection
+reflection 1.000000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ref_color71"
+# material label
+material_label "lego - tar"
+# material description
+material_description ""
+# material keywords
+material_keywords ""
+# ambient color
+ambient_color 1.000000 0.950000 0.750000 1.000000
+# diffuse color
+diffuse_color 1.000000 0.950000 0.750000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.720000
+# ambient
+ambient 0.600000
+# shine
+shine 0.600000
+# shine intensity
+intensity 0.600000
+# reflection
+reflection 0.300000
+# bump_type
+bump_type 0
+# amplitude
+amplitude 1.000000
+# scale
+scale 0.100000
+# exponent
+exponent 3.000000
+# rotation
+rotation 0.000000
+# color_tex_type
+color_tex_type 0
+# color_tex_scale
+color_tex_scale 0.100000
+# color_tex_rotation
+color_tex_rotation 0.000000
+# decal_type
+decal_type 0
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
