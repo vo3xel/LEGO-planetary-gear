@@ -1,0 +1,27 @@
+BLItemNo	ElementId	LdrawId	PartName	BLColorId	LDrawColorId	ColorName	ColorCategory	Qty	Weight
+2711		2711	Technic, Plate 1 x 5 with Toothed Ends, 2 Studs and Center Axle Hole	11	0	Black	Solid Colors	1	0.62
+2712		2712	Technic, Plate Rotor 3 Blade with Toothed Ends and 3 Studs (Propeller)	9	7	Light Gray	Solid Colors	2	0.65
+3024	302421	3024	Plate 1 x 1	5	4	Red	Solid Colors	1	0.2
+4265c	4110050	4265c	Technic Bush 1/2 Smooth	9	7	Light Gray	Solid Colors	3	0.1
+32523	6102618	32523	Technic, Liftarm 1 x 3 Thick	4	25	Orange	Solid Colors	4	0.7
+32524	4143020	32524	Technic, Liftarm 1 x 7 Thick	9	7	Light Gray	Solid Colors	1	1.74
+3460	346021	3460	Plate 1 x 8	5	4	Red	Solid Colors	4	1.36
+3647		3647	Technic, Gear 8 Tooth Type 1	10	8	Dark Gray	Solid Colors	3	0.16
+x187		x187	Technic, Gear 24 Tooth (Old Style with Three Axle Holes)	9	7	Light Gray	Solid Colors	1	1.13
+3666	366621	3666	Plate 1 x 6	5	4	Red	Solid Colors	1	1.06
+3673	4184166	3673	Technic, Pin without Friction Ridges Lengthwise	9	7	Light Gray	Solid Colors	8	0.16
+3703		3703	Technic, Brick 1 x 16 with Holes	9	7	Light Gray	Solid Colors	2	5.87
+3707	370726	3707	Technic, Axle 8	11	0	Black	Solid Colors	1	1.18
+3710	371002	3710	Plate 1 x 4	9	7	Light Gray	Solid Colors	2	0.71
+3737	373726	3737	Technic, Axle 10	11	0	Black	Solid Colors	1	1.49
+3894	389421	3894	Technic, Brick 1 x 6 with Holes	5	4	Red	Solid Colors	2	2.2
+3749	4184168	3749	Technic, Axle Pin without Friction Ridges Lengthwise	9	7	Light Gray	Solid Colors	7	0.22
+3713	4125313	3713	Technic Bush	9	7	Light Gray	Solid Colors	4	0.14
+4459		4459	Technic, Pin with Friction Ridges Lengthwise WITHOUT Center Slots	11	0	Black	Solid Colors	2	0.19
+4477	447721	4477	Plate 1 x 10	5	4	Red	Solid Colors	2	1.61
+6632	6254125	6632	Technic, Liftarm 1 x 3 Thin	4	25	Orange	Solid Colors	4	0.45
+6632	4107829	6632	Technic, Liftarm 1 x 3 Thin	7	1	Blue	Solid Colors	2	0.45
+		annular-gear.dat	annular-gear		0	Black	Solid Colors	1	
+									
+Total qty	Total Weight								
+58	44.98001 +a								
