@@ -10,6 +10,7 @@ The custom annular gear part is inspired by http://www.thingiverse.com/thing:125
 Some parts are created with [Autodesk Inventor](https://www.autodesk.com/products/inventor/overview) by [Kristofer Arreguin](https://sites.google.com/site/krisbase/lego-2)
 
 [![CC By 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+[![DOI](https://zenodo.org/badge/175166419.svg)](https://zenodo.org/badge/latestdoi/175166419)
 
 This project was created for educational purposes!
 
